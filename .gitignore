@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Media / data (don't commit sample videos or spreadsheets)
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.flv
+*.wmv
+*.xlsx
+*.xls
+
+# Output
+Trimmed/
